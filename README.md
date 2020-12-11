@@ -1,4 +1,4 @@
-# google-clone
+# todo-app
 
 ## Project setup
 ```
